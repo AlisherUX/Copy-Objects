@@ -11,9 +11,7 @@ let a = {
     lastName: "Doe", 
 };
 
-
-//
-// Yana bir bo'sh obyekt yaratiladi (2)
+//Bo'sh obyekt yaratiladi (2)
 //    ||
 //    \/
 let b = {};
